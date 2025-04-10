@@ -1,10 +1,10 @@
-Resume Website - Purnima Sahoo
+**Resume Website - Purnima Sahoo**
 A clean, professional resume website hosted on GitHub Pages that allows visitors to view and download my resume directly.
 
-🌐 Live Website
-Visit my resume: [purnima-sahoo.github.io/resume-website](https://purnima2004.github.io/Purnima-Sahoo-Resume/)
+**🌐 Live Website**
+Visit my resume: purnima-sahoo.github.io/resume-website
 
-📄 Contents
+**📄 Contents**
 This repository contains:
 index.html - The main webpage displaying my professional profile
 Purnima_Sahoo_Resume.pdf - Downloadable PDF resume
